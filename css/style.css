@@ -1,0 +1,97 @@
+.navigation1 {
+	display: inline-block;
+	font-family: "ArchyEDT-Thin", sans-serif;
+}
+.satauri1{
+	font-family: 'Yusei Magic'
+}
+.active {
+	color: #EE4036;
+}
+.nav-li {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-a {
+	display: inline-block;
+	font-size: 22px;
+	padding-right: 18px;
+	margin-top: 20,2px;
+}
+.logo1 {
+	vertical-align: middle;
+	margin: 30px 49.8px 77.1px 30px;
+}
+/*es mgoni araa swori :D  */
+body {
+	margin-top: 30px;
+}
+.container1 {
+	width: 1170px;
+	margin: 76.9px 98px 117.6px 98px ;
+
+}
+.left-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	padding: 15px;
+	margin-right: 29px;
+	margin-top: 20px;
+}
+.right-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	padding: 15px;
+}
+.section-image1 {
+	display:inline-block;
+	width: 100px;
+	vertical-align: top;
+	margin-right: 60px;
+	margin-top: 13px;
+
+}
+.section-text1 {
+	display: inline-block;
+	width: 355px;
+	vertical-align: top;
+	margin-top: 13px;
+}
+.satauri1 {
+	margin-left: 15px;
+}
+.footer-img {
+	display: inline-block;
+}
+.footer-img2 {
+	display: inline-block;
+}
+.divider {
+	height: 27px;
+	width: 2px;
+	background-color: #363E97;
+	display: inline-block;
+	margin: 0 35px;
+}
+/* NEWS CSS STYLE */
+.news1 {
+	margin-top: 35.8;
+}
+.div-date1{
+	width: 52px;
+	height: 64px;
+	background-color: #3D58A6;
+	box-sizing: border-box;
+}
+.date1{
+	font-size: 48px;
+	padding: 4px;
+	color: #fff;
+}
+;
+
+.date2{
+	
+}

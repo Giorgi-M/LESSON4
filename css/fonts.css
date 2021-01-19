@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Yusei Magic';
+    src: url('../fonts/Yuseimagic/YuseiMagic-Regular.eot');
+    src: url('../fonts/Yuseimagic/YuseiMagic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Yuseimagic/YuseiMagic-Regular.woff2') format('woff2'),
+        url('../fonts/Yuseimagic/YuseiMagic-Regular.woff') format('woff'),
+        url('../fonts/Yuseimagic/YuseiMagic-Regular.ttf') format('truetype'),
+        url('../fonts/Yuseimagic/YuseiMagic-Regular.svg#YuseiMagic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
